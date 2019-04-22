@@ -6,10 +6,10 @@
 ### 22.04.2019 Pazartesi
 - Ders İşleyişinin Örneklendirilmesi
 - Github Kullanımı
+- Android Studio Kurulumu
 ### 23.04.2019 Salı
 - 23 Nisan dolayısıyla eğitim yapılmayacaktır.
 ### 24.04.2019 Çarşamba
-- Android Studio Kurulumu
 
 ## 2.hafta
 ### 29.04.2019 Pazartesi
