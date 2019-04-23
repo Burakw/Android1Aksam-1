@@ -1,6 +1,6 @@
 # Android 1 Eğitimi
 
-[İSMEK](http://ismek.istanbul), Fatih Bilişim Okulundaki 9 nolu derslikte 22.04.2019 tarihinde başlayan akşam grubunun günlük olarak yedeklenen çalışmalarını burada bulabilirsiniz.
+[İSMEK](http://ismek.ist), Fatih Bilişim Okulundaki 9 nolu derslikte 22.04.2019 tarihinde başlayan akşam grubunun günlük olarak yedeklenen çalışmalarını burada bulabilirsiniz.
 
 ## 1.hafta
 ### 22.04.2019 Pazartesi
